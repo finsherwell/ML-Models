@@ -1,0 +1,23 @@
+data:
+  task1:
+    raw:
+      test: "data/task1/raw/spam_detection_test_data.csv"
+      test_checksum: "93556bbad693968096613011355fa490d1fad4d5"
+      train: "data/task1/raw/spam_detection_training_data.csv"
+      train_checksum: "807818a04b1f14412767e0929014fe0279047188"
+    processed:
+      test: "data/task1/processed"
+      train: "data/task1/processed"
+    results: "results/task1"
+    models: "data/task1/models"
+  task2:
+    raw:
+      test: "data/task2/raw/face_alignment_test_images.npz"
+      test_checksum: "e480535442512b8175ae110d2d3e507378cabbdb"
+      train: "data/task2/raw/face_alignment_training_images.npz"
+      train_checksum: "affc56216e34c827f10681a14c602981c06ddeb3"
+    processed:
+      test: data/task2/processed
+      train: data/task2/processed
+    results: "results/task2"
+    models: "data/task2/models"
