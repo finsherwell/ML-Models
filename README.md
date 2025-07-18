@@ -14,6 +14,10 @@ Developed a classical machine learning pipeline to detect whether a message is s
 - Model comparison: Logistic Regression, Decision Tree, Naive Bayes, SVC, Random Forest
 - Final model: **Random Forest**, selected based on precision, recall, accuracy & F1 score
 
+*Machine Learning Pipeline:*
+![alt text](https://github.com/finsherwell/ML-Models/docs/flowcharts/spam_detection_design.png "Spam Detection Design Pipeline")
+
+
 #### Task 2 – Face Alignment (Regression)
 Designed a pipeline to locate facial landmarks (e.g., eyes, nose, mouth) on face images:
 
@@ -21,6 +25,9 @@ Designed a pipeline to locate facial landmarks (e.g., eyes, nose, mouth) on face
 - Feature engineering: SIFT descriptors, edge maps (Canny), pixel intensity stats
 - Model comparison: Linear Regression, Ridge Regression, SVR, Random Forest
 - Final model: **Linear Regression**, chosen for lowest MSE and highest R² score
+
+*Machine Learning Pipeline:*
+![alt text](https://github.com/finsherwell/ML-Models/docs/flowcharts/face_alignment_design.png "Face Alignment Design Pipeline")
 
 ---
 
@@ -87,3 +94,6 @@ ML-Models/
 - Simpler models like Logistic or Linear Regression can outperform complex ones when paired with well-crafted features.
 - Feature engineering is vital: marketing keywords and punctuation patterns for spam; edge detection and SIFT for face alignment.
 - Data quality and consistency in preprocessing have a huge impact on outcomes.
+
+#### Disclaimer:
+I have tried to include the diagrams from the data analysis booklets where possible so you can see for yourself. However, some have been hidden for intellectual property and privacy reasons. If you wish to see more as to how the notebooks work, I encourage you to clone the repository and try for yourself. I am not liable for any copyright issues regarding datasets - this was a university assignment. If you have any issues please contact me.
