@@ -37,8 +37,6 @@ ML-Models/
 │   └── task1/, task2/         # Raw and processed datasets (not included in repo)
 ├── notebooks/
 │   └── task1/, task2/         # Jupyter notebooks for each stage
-├── reports/
-│   └── Report.pdf             # Project report with design, results & analysis
 ├── src/
 │   └── ...                    # Reusable Python scripts (utils)
 ├── requirements.txt
