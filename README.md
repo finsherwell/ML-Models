@@ -40,7 +40,7 @@ ML-Models/
 ├── reports/
 │   └── Report.pdf             # Project report with design, results & analysis
 ├── src/
-│   └── ...                    # Reusable Python scripts (feature extraction, model eval, etc.)
+│   └── ...                    # Reusable Python scripts (utils)
 ├── requirements.txt
 ├── config.yaml
 └── README.md
