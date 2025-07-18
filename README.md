@@ -15,7 +15,7 @@ Developed a classical machine learning pipeline to detect whether a message is s
 - Final model: **Random Forest**, selected based on precision, recall, accuracy & F1 score
 
 *Machine Learning Pipeline:*
-![alt text](https://github.com/finsherwell/ML-Models/blob/docs/flowcharts/spam_detection_design.PNG "Spam Detection Design Pipeline")
+![alt text](https://github.com/finsherwell/ML-Models/blob/main/docs/flowcharts/spam_detection_design.PNG "Spam Detection Design Pipeline")
 
 #### Task 2 – Face Alignment (Regression)
 Designed a pipeline to locate facial landmarks (e.g., eyes, nose, mouth) on face images:
@@ -26,7 +26,7 @@ Designed a pipeline to locate facial landmarks (e.g., eyes, nose, mouth) on face
 - Final model: **Linear Regression**, chosen for lowest MSE and highest R² score
 
 *Machine Learning Pipeline:*
-![alt text](https://github.com/finsherwell/ML-Models/blob/docs/flowcharts/face_alignment_design.PNG "Face Alignment Design Pipeline")
+![alt text](https://github.com/finsherwell/ML-Models/blob/main/docs/flowcharts/face_alignment_design.PNG "Face Alignment Design Pipeline")
 
 ---
 
